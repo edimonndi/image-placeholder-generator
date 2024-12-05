@@ -86,7 +86,6 @@ If you encounter any issues or have suggestions, feel free to  [open an issue.](
 
 
 ### Breakdown of the README Sections:
-<<<<<<< HEAD
 
 1. **Title**: Briefly describes the purpose of the package.
 2. **Features**: A quick overview of what your package does.
@@ -97,21 +96,4 @@ If you encounter any issues or have suggestions, feel free to  [open an issue.](
 7. **License**: Licensing information.
 
 
-
 Let me know if you want to customize it further!
-
-
-=======
-
-1. **Title**: Briefly describes the purpose of the package.
-2. **Features**: A quick overview of what your package does.
-3. **Installation**: Instructions for installing the package.
-4. **Usage**: Example code for using the package both as a library and CLI tool.
-5. **Testing**: Instructions for running tests with Jest.
-6. **Contributing**: Basic guidelines for contributing to the project.
-7. **License**: Licensing information.
-
-
-
-Let me know if you want to customize it further!
->>>>>>> 37791fb (Adding README and LICENSE)
