@@ -14,7 +14,7 @@
     "sharp"
   ],
   "author": "@edimonndi",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^16.4.7",
     "sharp": "^0.33.5"
